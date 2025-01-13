@@ -27,4 +27,4 @@ This page provide the research paper implementation for <a href="https://ieeexpl
   </tr>
 </table>
 
-https://i.imgur.com/Ihpr8bx.png
+![IEE QCE2024 paper](https://i.imgur.com/Ihpr8bx.png)
