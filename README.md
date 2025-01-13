@@ -1,7 +1,6 @@
 # Quantum Amplitude Loading for Rainbow Option Pricing
 
-This page gathers research paper about Quantum Amplitude Loading for Rainbow Option Pricing. Researchers are invited to add their work
-to the table. Link to the main repository at Classiq GitHub repo: https://github.com/Classiq/classiq-library/tree/main.
+This page provide the research paper implementation for <a href="https://ieeexplore.ieee.org/document/10821383/" target="_blank">Quantum Amplitude Loading for Rainbow Options Pricing</a> presented at the IEEE QCE2024 in Montrèal. Researchers are invited to add their work to the table or contribute to the notebooks listed in this repo. Link to the main repository at Classiq GitHub repo: https://github.com/Classiq/classiq-library/tree/main.
 
 <table>
     <tr>
